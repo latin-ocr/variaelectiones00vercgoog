@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./variaelectiones00vercgoog_0006.png"; bbox 0 0 4804 6692; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 552 652 1921 918">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 552 652 1921 918">
+     <span class='ocr_line' id='line_1_1' title="bbox 552 652 1921 918; baseline -0.001 -7"><span class='ocrx_word' id='word_1_1' title='bbox 552 652 992 912; x_wconf 81' lang='lat' dir='ltr'><strong>VARIAE</strong></span> <span class='ocrx_word' id='word_1_2' title='bbox 1067 653 1705 918; x_wconf 81' lang='lat' dir='ltr'><strong>LECTIONES</strong></span> <span class='ocrx_word' id='word_1_3' title='bbox 1918 903 1921 910; x_wconf 14' lang='lat'><em>⁴</em></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 704 1170 1547 1312">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 704 1170 1547 1312">
+     <span class='ocr_line' id='line_1_2' title="bbox 704 1170 1547 1312; baseline 0.002 -10"><span class='ocrx_word' id='word_1_4' title='bbox 704 1170 1138 1309; x_wconf 84' lang='lat' dir='ltr'><strong>VULGATAE</strong></span> <span class='ocrx_word' id='word_1_5' title='bbox 1192 1172 1547 1312; x_wconf 81' lang='lat' dir='ltr'><strong>LATINAE</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 300 1567 1956 2146">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 300 1567 1956 2146">
+     <span class='ocr_line' id='line_1_3' title="bbox 300 1567 1956 2146; baseline 0.005 -250"><span class='ocrx_word' id='word_1_6' title='bbox 300 1567 1956 2146; x_wconf 82' lang='lat' dir='ltr'>BIBLIORUM</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_4' title="bbox 577 2089 1570 2256">
+    <p class='ocr_par' dir='ltr' id='par_1_4' title="bbox 577 2089 1570 2256">
+     <span class='ocr_line' id='line_1_4' title="bbox 577 2089 1570 2256; baseline -0.001 -2"><span class='ocrx_word' id='word_1_7' title='bbox 577 2227 580 2236; x_wconf 91' lang='lat'><em>.</em></span> <span class='ocrx_word' id='word_1_8' title='bbox 917 2141 1333 2256; x_wconf 76' lang='lat' dir='ltr'>Eanlole</span> <span class='ocrx_word' id='word_1_9' title='bbox 1457 2163 1458 2168; x_wconf 16' lang='grc' dir='ltr'>ψ</span> <span class='ocrx_word' id='word_1_10' title='bbox 1561 2089 1570 2110; x_wconf 84' lang='grc'>’</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_5' title="bbox 383 2597 1630 2757">
+    <p class='ocr_par' dir='ltr' id='par_1_5' title="bbox 383 2597 1630 2757">
+     <span class='ocr_line' id='line_1_5' title="bbox 383 2597 1630 2757; baseline 0.001 -54"><span class='ocrx_word' id='word_1_11' title='bbox 383 2629 385 2634; x_wconf 91' lang='grc'><strong><em>·</em></strong></span> <span class='ocrx_word' id='word_1_12' title='bbox 624 2597 1010 2704; x_wconf 71' lang='lat' dir='ltr'><strong>cAssosz</strong></span> <span class='ocrx_word' id='word_1_13' title='bbox 1069 2597 1630 2757; x_wconf 54' lang='lat' dir='ltr'><strong>[ammom</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_6' title="bbox 0 0 2406 6692">
+    <p class='ocr_par' dir='ltr' id='par_1_6' title="bbox 0 0 2406 6692">
+     <span class='ocr_line' id='line_1_6' title="bbox 0 0 2406 6692; baseline 0 0"><span class='ocrx_word' id='word_1_14' title='bbox 0 0 2406 6692; x_wconf 95' lang='lat' dir='ltr'><strong> </strong></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
